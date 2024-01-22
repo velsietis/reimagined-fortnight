@@ -1,0 +1,90 @@
+[
+  {
+    "id": "C550BE3D-64B0-EE11-BEA0-6045BDC14E56",
+    "name": "Miracle Pill",
+    "description": "A drug that solves all ailments",
+    "mainCategory": "Pharmaceutical",
+    "supports": [
+      {
+        "name": "Health Innovation East",
+        "acronym": "HIN-EAST",
+        "status": "ENGAGING",
+        "updatedAt": "2023-10-05T02:01:00.000Z"
+      },
+      {
+        "name": "Health Technology Wales ",
+        "acronym": "HTW",
+        "status": "CLOSED",
+        "updatedAt": "2023-07-05T03:06:40.290Z"
+      }
+    ]
+  },
+  {
+    "id": "23CC6CB2-F82D-ED11-AE83-0050F25A312B",
+    "name": "Skynet",
+    "description": "AI to help terminate bad health",
+    "mainCategory": "Artificial intelligence (AI)",
+    "supports": [
+      {
+        "name": "Health Innovation East",
+        "acronym": "HIN-EAST",
+        "status": "ENGAGING",
+        "updatedAt": "2023-09-23T12:15:40.290Z"
+      },
+      {
+        "name": "Life Sciences Hub Wales",
+        "acronym": "LSHW",
+        "status": "WAITING",
+        "updatedAt": "2023-11-11T11:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "BF7247F6-A97C-EE11-8925-6045BDFBB2B2",
+    "name": "Enchanted Mask",
+    "description": "A mask that protects the wearer and gives them magical powers",
+    "mainCategory": "Personal protective equipment (PPE)",
+    "supports": [
+      {
+        "name": "Health Innovation East",
+        "acronym": "HIN-EAST",
+        "status": "ENGAGING",
+        "updatedAt": "2023-05-01T14:04:40.290Z"
+      }
+    ]
+  },
+  {
+    "id": "3633C98C-857C-EE11-8925-6045BDFBB2B2",
+    "name": "Scoot Boot",
+    "description": "Rollerskate boots specifically designed for nurses",
+    "mainCategory": "Travel and transport",
+    "supports": [
+      {
+        "name": "Health Innovation East",
+        "acronym": "HIN-EAST",
+        "status": "ENGAGING",
+        "updatedAt": "2023-12-25T03:06:40.290Z"
+      },
+      {
+        "name": "Health Innovation West Midlands",
+        "acronym": "HIN-WM",
+        "status": "CLOSED",
+        "updatedAt": "2024-01-01T12:05:00.300Z"
+      }
+    ]
+  },
+  {
+    "id": "400EEB1B-8B37-EE11-A3F1-000D3A7FC69B",
+    "name": "Trotters Pacemakers",
+    "description": "Great pacemakers at a fraction of the regular price",
+    "mainCategory": "Medical device",
+    "supports": [
+      {
+        "name": "Health Innovation East",
+        "acronym": "HIN-EAST",
+        "status": "ENGAGING",
+        "updatedAt": "2023-04-25T03:06:40.290Z"
+      }
+    ]
+  }
+]
